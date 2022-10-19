@@ -1,0 +1,5 @@
+﻿  源.c
+D:\code\test_10_19_2\test_10_19_2\源.c(22,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\test_10_19_2\test_10_19_2\源.c(34,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\test_10_19_2\test_10_19_2\源.c(35,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test_10_19_2.vcxproj -> D:\code\test_10_19_2\x64\Debug\test_10_19_2.exe
