@@ -1,0 +1,3 @@
+﻿  test_12_30_0.c
+D:\code\test_12_30_0\test_12_30_0\test_12_30_0.c(18,22): warning C4552: ”+“: 未使用表达式结果
+  test_12_30_0.vcxproj -> D:\code\test_12_30_0\x64\Debug\test_12_30_0.exe
