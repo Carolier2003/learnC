@@ -1,0 +1,3 @@
+﻿  game.c
+D:\code\lastgame\lastgame\game.c(152,18): warning C4305: “=”: 从“int”到“char”截断
+  lastgame.vcxproj -> D:\code\lastgame\x64\Debug\lastgame.exe

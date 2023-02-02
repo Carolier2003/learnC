@@ -1,0 +1,7 @@
+﻿  game.c
+D:\code\game1\game1\game.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\code\game1\game1\game.c(77,18): warning C4305: “=”: 从“int”到“char”截断
+  test.c
+D:\code\game1\game1\game.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  game1.vcxproj -> D:\code\game1\x64\Debug\game1.exe
