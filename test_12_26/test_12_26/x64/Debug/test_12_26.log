@@ -1,0 +1,13 @@
+﻿  源.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(11,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\code\test_12_26\test_12_26\源.c(1,1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\code\test_12_26\test_12_26\源.c(17,31): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+D:\code\test_12_26\test_12_26\源.c(23,44): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+D:\code\test_12_26\test_12_26\源.c(23,61): warning C4047: “函数”:“WPARAM”与“void *”的间接级别不同
+D:\code\test_12_26\test_12_26\源.c(23,57): warning C4024: “SendMessageW”: 形参和实参 3 的类型不同
+D:\code\test_12_26\test_12_26\源.c(23,67): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+D:\code\test_12_26\test_12_26\源.c(23,63): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+D:\code\test_12_26\test_12_26\源.c(27,44): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+D:\code\test_12_26\test_12_26\源.c(27,74): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+D:\code\test_12_26\test_12_26\源.c(27,70): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+  test_12_26.vcxproj -> D:\code\test_12_26\x64\Debug\test_12_26.exe
