@@ -1,0 +1,4 @@
+﻿  源.c
+D:\code\test_23_04_04\test_23_04_04\源.c(21,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\test_23_04_04\test_23_04_04\源.c(46,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\test_23_04_04\test_23_04_04\源.c(52): error C4700: 使用了未初始化的局部变量“x2”
