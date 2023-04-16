@@ -1,0 +1,11 @@
+﻿  test.cpp
+D:\code\test_23_03_11\test_23_03_11\test.cpp(15,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“student *”
+D:\code\test_23_03_11\test_23_03_11\test.cpp(15,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "student *" 的参数 1 冲突
+D:\code\test_23_03_11\test_23_03_11\test.cpp(31,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\code\test_23_03_11\test_23_03_11\test.cpp(40,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\code\test_23_03_11\test_23_03_11\test.cpp(40,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "int *" 的参数 1 冲突
+D:\code\test_23_03_11\test_23_03_11\test.cpp(44,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“student *”
+D:\code\test_23_03_11\test_23_03_11\test.cpp(44,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "student *" 的参数 1 冲突
+D:\code\test_23_03_11\test_23_03_11\test.cpp(51,9): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\code\test_23_03_11\test_23_03_11\test.cpp(51,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+  test_23_03_11.vcxproj -> D:\code\test_23_03_11\x64\Debug\test_23_03_11.exe
